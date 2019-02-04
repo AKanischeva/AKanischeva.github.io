@@ -9,7 +9,6 @@ Progress bar for my Javascript learning
 5. [CodeWars](https://www.codewars.com/dashboard)
 6. [Github synthax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 7. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-___
 
 ## Progress bar
 
