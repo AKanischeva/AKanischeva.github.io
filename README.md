@@ -10,6 +10,10 @@ Progress bar for my Javascript learning
 6. [Github synthax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 7. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
+## Tasks
+ * [Edabit](https://edabit.com/challenges/javascript)
+ * [Coderbyte](https://coderbyte.com/course/learn-javascript-in-one-week)
+
 ## Progress bar
 
 ### 2 февраля
