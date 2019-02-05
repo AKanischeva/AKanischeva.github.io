@@ -18,4 +18,4 @@ Progress bar for my Javascript learning
 
 ### 2 февраля
 * Github page
-* TODO: add information about JS progress
+* 2 chapters of EJS
