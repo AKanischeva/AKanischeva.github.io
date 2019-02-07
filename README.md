@@ -19,3 +19,6 @@ Progress bar for my Javascript learning
 ### 4 февраля
 * Github page
 * 2 chapters of EJS
+
+### 5-6 февраля
+* 2 chapters + tasks
