@@ -23,3 +23,6 @@ Progress bar for my Javascript learning
 
 ### 5-6 февраля
 * 2 chapters + tasks
+
+### 6-8 февраля
+* Functions, objects, structures + tasks
